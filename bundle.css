@@ -1,0 +1,218 @@
+@font-face {
+    font-family: 'TT Norms Pro';
+    src: url(fonts/57473609fa405827d418066bd3a3f72d.eot);
+    src: local('TT Norms Pro Bold'), local('TTNormsPro-Bold'),
+        url(fonts/57473609fa405827d418066bd3a3f72d.eot?#iefix) format('embedded-opentype'),
+        url(fonts/a76053e8fa0edaac22e294cf26bd077a.woff2) format('woff2'),
+        url(fonts/9deb9fa093d0e759a237f3ee4edbd593.woff) format('woff'),
+        url(fonts/ca1a7eb9f72ef0dcfd46c4037c2b6ed6.ttf) format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Norms Pro';
+    src: url(fonts/7f8f19ceac3eb22670e0364d2f7faebe.eot);
+    src: local('TT Norms Pro ExtraBold Italic'), local('TTNormsPro-ExtraBoldItalic'),
+        url(fonts/7f8f19ceac3eb22670e0364d2f7faebe.eot?#iefix) format('embedded-opentype'),
+        url(fonts/a0ed4a0501b1c83d38630f7e7adcab64.woff2) format('woff2'),
+        url(fonts/4ed5a7d640997672b270e4a8ae6fd73f.woff) format('woff'),
+        url(fonts/0954ccff23c1a48fda7d07267062744d.ttf) format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Norms Pro';
+    src: url(fonts/22dd413b6452ee4d887773fcaaf69fe5.eot);
+    src: local('TT Norms Pro ExtraLight Italic'), local('TTNormsPro-ExtraLightItalic'),
+        url(fonts/22dd413b6452ee4d887773fcaaf69fe5.eot?#iefix) format('embedded-opentype'),
+        url(fonts/2d179bbb950b4e4f979aeee8999caa2b.woff2) format('woff2'),
+        url(fonts/06dad7a4b6fbeea933842204eff23a1b.woff) format('woff'),
+        url(fonts/fb301ba85a2437fb8dc0b90ca793e59b.ttf) format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Norms Pro';
+    src: url(fonts/fb98246226ffda7d1cf887c4866f501f.eot);
+    src: local('TT Norms Pro Thin'), local('TTNormsPro-Thin'),
+        url(fonts/fb98246226ffda7d1cf887c4866f501f.eot?#iefix) format('embedded-opentype'),
+        url(fonts/6a05a1b1a06567706c13eba6166d9e0b.woff2) format('woff2'),
+        url(fonts/ee57b13a0f75e30c8e41d4113dc409bf.woff) format('woff'),
+        url(fonts/cba7d9eea59723c33bb3d2a5ceef7d9b.ttf) format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Norms Pro';
+    src: url(fonts/2203c264cabaeacc3ef0ecc997ceea3c.eot);
+    src: local('TT Norms Pro ExtraBold'), local('TTNormsPro-ExtraBold'),
+        url(fonts/2203c264cabaeacc3ef0ecc997ceea3c.eot?#iefix) format('embedded-opentype'),
+        url(fonts/e52b1905c3715e3621fcbfad27a15e03.woff2) format('woff2'),
+        url(fonts/c5b669c76f650c55e6ca06f952ce6181.woff) format('woff'),
+        url(fonts/f73f5eeaf1a934f7694d9ebf193d984d.ttf) format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Norms Pro';
+    src: url(fonts/3463e845a90ada751882e79775cba8fb.eot);
+    src: local('TT Norms Pro Regular'), local('TTNormsPro-Regular'),
+        url(fonts/3463e845a90ada751882e79775cba8fb.eot?#iefix) format('embedded-opentype'),
+        url(fonts/463b9c96fefe5cefd8d9ce8f3bf45ca5.woff2) format('woff2'),
+        url(fonts/ca0e414ea2321bd0c925145590a87bca.woff) format('woff'),
+        url(fonts/286accc215acf65c8da8311c48410a17.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Norms Pro';
+    src: url(fonts/87c59a44a7a7cea53f8484150e694173.eot);
+    src: local('TT Norms Pro Thin Italic'), local('TTNormsPro-ThinItalic'),
+        url(fonts/87c59a44a7a7cea53f8484150e694173.eot?#iefix) format('embedded-opentype'),
+        url(fonts/80c4d94ecce3f2e4935c99a53d6c8a85.woff2) format('woff2'),
+        url(fonts/1a5f42a9e580bd66ab76f6dce5bcb908.woff) format('woff'),
+        url(fonts/c446819236540ea37ac8d15f3bc092ce.ttf) format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Norms Pro';
+    src: url(fonts/041abe138e31c2c11f1344fcad6d82a0.eot);
+    src: local('TT Norms Pro Light'), local('TTNormsPro-Light'),
+        url(fonts/041abe138e31c2c11f1344fcad6d82a0.eot?#iefix) format('embedded-opentype'),
+        url(fonts/c79fb6f155b5b8654528c59f1474bab2.woff2) format('woff2'),
+        url(fonts/5ec9ff23c60ef3eb2036e67edba8383e.woff) format('woff'),
+        url(fonts/08b32136957bbe1334d15a21c2c69e02.ttf) format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Norms Pro';
+    src: url(fonts/ec26322e54c2ae7729c8486336e76294.eot);
+    src: local('TT Norms Pro Medium Italic'), local('TTNormsPro-MediumItalic'),
+        url(fonts/ec26322e54c2ae7729c8486336e76294.eot?#iefix) format('embedded-opentype'),
+        url(fonts/78a53302b5167b1bf1435d7ae23071cd.woff2) format('woff2'),
+        url(fonts/b52e47fd5509bf9f3260cbd970178a47.woff) format('woff'),
+        url(fonts/8a3d548a99b857324624da1c5b741708.ttf) format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Norms Pro ExtraBlack';
+    src: url(fonts/bc0d7aee910e3a00d11c647ee030ca1a.eot);
+    src: local('TT Norms Pro ExtraBlack Italic'), local('TTNormsPro-ExtraBlackItalic'),
+        url(fonts/bc0d7aee910e3a00d11c647ee030ca1a.eot?#iefix) format('embedded-opentype'),
+        url(fonts/4ea73c6199373ee0450218ab7dbe6e35.woff2) format('woff2'),
+        url(fonts/ce51861839e72f243c7621383f594849.woff) format('woff'),
+        url(fonts/b49879e94aa424614ebb9d83b35a310a.ttf) format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Norms Pro';
+    src: url(fonts/b3379d06dd611cc80e5282ee667e82e3.eot);
+    src: local('TT Norms Pro ExtraLight'), local('TTNormsPro-ExtraLight'),
+        url(fonts/b3379d06dd611cc80e5282ee667e82e3.eot?#iefix) format('embedded-opentype'),
+        url(fonts/03301a6074e1e4cf8f265837c74552fc.woff2) format('woff2'),
+        url(fonts/1c72d37b410e10a7ecdd191764a2627f.woff) format('woff'),
+        url(fonts/d3e733d07d68dafbc8a63ce241430375.ttf) format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Norms Pro';
+    src: url(fonts/09621dd1af8f95fdb9e1f716fcd43e4a.eot);
+    src: local('TT Norms Pro Light Italic'), local('TTNormsPro-LightItalic'),
+        url(fonts/09621dd1af8f95fdb9e1f716fcd43e4a.eot?#iefix) format('embedded-opentype'),
+        url(fonts/ae56c3883400783545190b73188eb2e1.woff2) format('woff2'),
+        url(fonts/68707b55171a99f81375c5087551eb6a.woff) format('woff'),
+        url(fonts/f7706c4e72048cc9c4ee7b9f49180847.ttf) format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Norms Pro';
+    src: url(fonts/2d5cb093bbe19490b4aadd683f831dd5.eot);
+    src: local('TT Norms Pro Medium'), local('TTNormsPro-Medium'),
+        url(fonts/2d5cb093bbe19490b4aadd683f831dd5.eot?#iefix) format('embedded-opentype'),
+        url(fonts/258cc526d378b9f0bc2b030d62fa026c.woff2) format('woff2'),
+        url(fonts/661844869ef3daee9c22d173499d1cae.woff) format('woff'),
+        url(fonts/4b8603a56c06d7a5e40dd4fab2578555.ttf) format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Norms Pro ExtraBlack';
+    src: url(fonts/f6950c630119764fcff788bce0254c7a.eot);
+    src: local('TT Norms Pro ExtraBlack'), local('TTNormsPro-ExtraBlack'),
+        url(fonts/f6950c630119764fcff788bce0254c7a.eot?#iefix) format('embedded-opentype'),
+        url(fonts/ebedea1144593625e97cff5905e8b860.woff2) format('woff2'),
+        url(fonts/5f26845100fe60f8001e384976c296b8.woff) format('woff'),
+        url(fonts/c8d1aa9ee3a84fe21e3be2d6910fcea5.ttf) format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Norms Pro';
+    src: url(fonts/e37758c4352dc0e4ecbb326dbf5f53e0.eot);
+    src: local('TT Norms Pro Bold Italic'), local('TTNormsPro-BoldItalic'),
+        url(fonts/e37758c4352dc0e4ecbb326dbf5f53e0.eot?#iefix) format('embedded-opentype'),
+        url(fonts/2a507da751d1fa97d876660767afa36d.woff2) format('woff2'),
+        url(fonts/ff6a387b9c97be50bc6f579d6bcbc834.woff) format('woff'),
+        url(fonts/59f101d40ddcef7c854f22185cde6fcd.ttf) format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Norms Pro';
+    src: url(fonts/cac3be879efeaf9e7a5265fba555ef0d.eot);
+    src: local('TT Norms Pro Black Italic'), local('TTNormsPro-BlackItalic'),
+        url(fonts/cac3be879efeaf9e7a5265fba555ef0d.eot?#iefix) format('embedded-opentype'),
+        url(fonts/9c8c570ba8f78fd3f97e389774ea5b5c.woff2) format('woff2'),
+        url(fonts/d444cf2141c756eecf8208fb1ef6483f.woff) format('woff'),
+        url(fonts/6999c3df0d970850acabc20f2561fe53.ttf) format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Norms Pro';
+    src: url(fonts/75b19c83d800de81f987708220a4e0c1.eot);
+    src: local('TT Norms Pro Black'), local('TTNormsPro-Black'),
+        url(fonts/75b19c83d800de81f987708220a4e0c1.eot?#iefix) format('embedded-opentype'),
+        url(fonts/bf15f5a6f0f4347f8f360c3c6615b3ca.woff2) format('woff2'),
+        url(fonts/7e93262d59459beb87d1eba8abf38d9b.woff) format('woff'),
+        url(fonts/42b0c49da7d469df5fef5a24f212c561.ttf) format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Norms Pro';
+    src: url(fonts/6566077bfb86ca45e1b0ff32157df58c.eot);
+    src: local('TT Norms Pro Italic'), local('TTNormsPro-Italic'),
+        url(fonts/6566077bfb86ca45e1b0ff32157df58c.eot?#iefix) format('embedded-opentype'),
+        url(fonts/f417d689d0018a904c907ebc5fc023f9.woff2) format('woff2'),
+        url(fonts/6de2ecaeacbd7df0eec9786049c06018.woff) format('woff'),
+        url(fonts/3cd202fd72e06ba1c36aa27485223e39.ttf) format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+
+body{background-color:#000;font-family:TT Norms Pro}*,:after,:before{box-sizing:border-box}ol[class],ul[class]{padding:0}blockquote,body,dd,dl,figcaption,figure,h1,h2,h3,h4,li,ol[class],p,ul[class]{margin:0}button{outline:none;border:none;cursor:pointer}body{min-height:100vh;scroll-behavior:smooth;text-rendering:optimizeSpeed;line-height:1.5;color:#fff}body.open{overflow:hidden}ol[class],ul[class]{list-style:none}a:not([class]){-webkit-text-decoration-skip:ink;text-decoration-skip-ink:auto}a{text-decoration:none}img{max-width:100%;display:block}article>*+*{margin-top:1em}button,input,select,textarea{font:inherit}.container{max-width:1290px;width:100%;margin:0 auto}@media screen and (max-width:1400px){.container{max-width:calc(100% - 30px)}}header{padding-top:50px;display:flex;justify-content:space-between;width:100%}.call-block{display:flex;flex-direction:column}.call-block .call-block-row{display:flex;align-items:center}.call-block .call-block-row .img_item{width:48px;height:48px;display:flex;align-items:center;justify-content:center;border-radius:120%;margin-right:18px}.call-block .call-block-row .img_item svg{fill:#ffd900}.call-block .call-block-row a{font-family:TT Norms Pro;font-style:normal;font-weight:700;font-size:24px;line-height:29px;text-align:right;color:#fff;transition:.3s ease}.call-block .callback-call{font-style:normal;font-weight:400;font-size:16px;line-height:19px;text-align:right;color:#ffd900;display:flex;align-self:flex-end;transition:.3s ease;border-bottom:1px dashed #ffd900}.call-block .callback-call:hover{color:#fff;border-bottom:1px dashed #fff}menu{min-width:50%;display:flex;justify-content:space-between}menu .menu-item{font-style:normal;font-weight:400;font-size:16px;line-height:19px;text-transform:uppercase;color:#fff;transition:.4s ease}menu .menu-item:hover{color:#ffd900}.main{background-image:url(images/main_img_.png);background-position:100%;background-size:50% auto;background-repeat:no-repeat;padding-top:50px;min-height:84vh;display:flex;align-items:center}.main .main-sign{font-style:normal;font-weight:300;font-size:60px;line-height:76px;width:50%;color:#fff;margin-bottom:45px}.main .main-list .main-list-item{display:flex;align-items:center;margin-bottom:15px;font-style:normal;font-weight:400;font-size:18px;line-height:36px}.main .main-list .main-list-item .item-img{display:flex;align-items:center;justify-content:center;width:30px;height:30px;background:#1f1f1f;border-radius:120%;margin-right:15px}.main .main-btn{margin-top:40px}.main-btn{display:flex;justify-content:center;align-items:center;width:310px;padding:30px 0;border-radius:14px;background:linear-gradient(97.48deg,#fff099,#ffe659 12.07%,#ffd900 54.4%);font-style:normal;font-weight:500;font-size:16px;line-height:19px;text-align:center;letter-spacing:.04em;text-transform:uppercase;color:#121212;transition:.4s ease}.main-btn:hover{color:rgba(18,18,18,.7843137254901961)}.image_block{margin-top:30px;padding-top:30px;padding-bottom:50px}.image_block .container{display:flex;align-items:stretch;min-height:50vh;justify-content:center}.image_block .content-block{display:flex;flex-direction:column;align-items:center;justify-content:center}.image_block.image-left .content-block{width:50%}.image_block .title{font-style:normal;font-weight:300;font-size:48px;line-height:60px;color:#fff;margin-bottom:30px}.image_block .content{font-style:normal;font-weight:400;font-size:16px;line-height:24px;color:#fff}.image_block.image-right{background-position:100%;background-repeat:no-repeat;background-size:60% 100%}.image_block.image-right .container,.image_block.image-right .content-block{align-items:flex-start;justify-content:flex-start}.image_block.image-right .content-block{width:45%}ul{padding-left:15px}ul li{list-style-type:circle}ul li::marker{color:#ffd900}label{display:flex;align-items:center;font-style:normal;font-weight:400;font-size:14px;line-height:24px;align-self:center;color:#858585}label a{color:#ffd900;text-decoration:underline}label input{margin-bottom:0;opacity:0;position:absolute}label input~.custom_chk{width:13px;height:13px;background:#fff;border-radius:4px;display:flex;justify-content:center;align-items:center;transform:translateY(-1px);max-width:13px;flex-basis:16%;margin-right:10px}label input~.custom_chk img{position:static;opacity:0}label input:checked~.custom_chk{width:13px;height:13px;background:#ffd900;border-radius:4px;display:flex;justify-content:center;align-items:center;transform:translateY(-1px);max-width:13px;flex-basis:16%}label input:checked~.custom_chk img{opacity:1;position:static;max-width:toRem(9)}.analyze-form{margin-bottom:120px;padding-top:80px}.analyze-form .title{font-weight:300;font-size:48px;line-height:60px;margin:auto auto 35px}.analyze-form .subtitle,.analyze-form .title{font-style:normal;text-align:center;color:#fff}.analyze-form .subtitle{font-weight:400;font-size:20px;line-height:30px;margin:auto auto 48px;width:60%}.analyze-form .form_row{display:flex;justify-content:space-between}.analyze-form .form_row input{padding:30px 45px 30px 30px;width:calc(33% - 15px);background:#fff;border:1px solid #ececec;border-radius:14px;background-position:center right 20px;background-repeat:no-repeat}.analyze-form .form_row input.name{background-image:url(images/user.svg)}.analyze-form .form_row input.tel{background-image:url(images/tel2.svg)}.analyze-form .form_row button{width:calc(33% - 15px)}.analyze-form .form_row.check{justify-content:center;margin-top:15px}.analyze-form .explanation{margin:30px auto auto;width:60%;padding:30px 19px;font-style:normal;font-weight:400;font-size:16px;line-height:24px;color:#858585;background:#1f1f1f;border-radius:14px;position:relative}.analyze-form .explanation:before{content:"";top:-20px;left:calc(50% - 5px);position:absolute;display:block;border:10px solid transparent;border-bottom-color:#1f1f1f}.result .title{font-style:normal;font-weight:700;font-size:48px;line-height:60px;text-align:center;color:#fff;margin-bottom:70px}
